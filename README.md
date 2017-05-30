@@ -9,7 +9,7 @@ if you find anything wrong with the instructions.
 
 ## python environment
   - numpy
-  - nomkl
+  - nomkl (I've been using the OpenBLAS version recently)
   - gridmap (master branch with pip)
  
 ## setting up sge parallel environment and queue
