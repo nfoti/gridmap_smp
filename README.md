@@ -14,8 +14,8 @@ if you find anything wrong with the instructions.
  
 ## setting up sge parallel environment and queue
 
-- I have updated my [fork](https://github.com/nfoti/StarCluster) of starcluster
-  to create an `smp` parallel environment oncluster startup.
+- I have updated my [fork](https://github.com/nfoti/StarCluster/tree/develop)
+  of starcluster to create an `smp` parallel environment oncluster startup.
 
 #### manual sge setup
 
